@@ -1,0 +1,267 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+
+    .main-top-title h3 {
+        font-size: 30px;
+    }
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    .main-top-title h3 {
+        font-size: 30px;
+    }
+    .single-dital-text p {
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    .about-fx p {
+        line-height: 21px;
+        font-size: 15px;
+    }
+    .about-pe p {
+        line-height: 21px;
+        font-size: 15px;
+    }
+    .single-dital img {
+        max-width: 197px;
+    }
+    .about-list ul li a {
+        line-height: 21px;
+        font-size: 15px;
+    }
+    .poke-containt h3 {
+        font-size: 30px;
+    }
+    .poke-containt p {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .finel-text {
+        width: 434px;
+    }
+    .leave-wrap {
+        margin-bottom: 20px;
+        margin-top: 16px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+    .main-top-title h3 {
+        font-size: 30px;
+    }
+    .single-dital-text p {
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    .about-fx p {
+        line-height: 21px;
+        font-size: 15px;
+    }
+    .about-pe p {
+        line-height: 21px;
+        font-size: 15px;
+    }
+    .single-dital img {
+        max-width: 197px;
+    }
+    .about-list ul li a {
+        line-height: 21px;
+        font-size: 15px;
+    }
+    .poke-containt h3 {
+        font-size: 28px;
+    }
+    .poke-containt p {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .finel-text {
+        width: 543px;
+    }
+    .leave-wrap {
+        margin-bottom: 20px;
+        margin-top: 16px;
+    }
+    .finel-title h3 {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+    .main-left {
+        position: relative;
+        padding-bottom: 0;
+    }
+    .about-fx img {
+        width: 90px;
+        height: 90px;
+        margin-right: 11px;
+    }
+    .main-left::before {
+        display: none;
+    }
+    .copy-right {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .post-list-wrap.post-last {
+        border-bottom: 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
+ 
+
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+
+    .main-top-title h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .single-dital-text p {
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    .about-fx p {
+        line-height: 21px;
+        font-size: 15px;
+    }
+    .about-pe p {
+        line-height: 21px;
+        font-size: 15px;
+    }
+    .single-dital img {
+        max-width: 197px;
+    }
+    .about-list ul li a {
+        line-height: 21px;
+        font-size: 15px;
+    }
+    .poke-containt h3 {
+        font-size: 22px;
+    }
+    .poke-containt p {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .finel-text {
+        width: 543px;
+    }
+    .leave-wrap {
+        margin-bottom: 20px;
+        margin-top: 16px;
+    }
+    .finel-title h3 {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .main-left {
+        position: relative;
+        padding-bottom: 0;
+    }
+    .about-fx img {
+        width: 90px;
+        height: 90px;
+        margin-right: 11px;
+    }
+    .main-left::before {
+        display: none;
+    }
+    .copy-right {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .post-list-wrap.post-last {
+        border-bottom: 0;
+    }
+    .header-logo a img {
+        max-width: 290px;
+    }
+    .header-logo {
+        padding: 21px 0;
+    }
+    .main-top-title {
+        padding: 12px 0;
+    }
+    .single-dital {
+        display: block;
+        align-items: start;
+        margin-bottom: 10px;
+    }
+    .single-dital-text {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    .finel-fl {
+        display: block;
+        justify-content: space-between;
+    }
+    .finel-text {
+        width: 100%;
+    }
+    .finel-text.tr2 {
+        width: 100%;
+    }
+    .comment-box textarea {
+        width: 100%;
+        height: 132px;
+        border: 1px solid #ced4da;
+        border-radius: 10px;
+        padding: 15px;
+        font-size: 16px;
+        color: #212529;
+    }
+    .right-wrap {
+        margin-top: 22px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+ 
+}
