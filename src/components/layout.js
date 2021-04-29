@@ -8,7 +8,7 @@
 import * as React from "react"
 import Footer from "./footer"
 import Header from "./header"
-import "./all.css"
+import "../../all.css"
 import "./responsive.css"
 
 const Layout = ({ children }) => {
