@@ -1,5 +1,5 @@
-import React from "react"
-import headerImg from "../assets/img/site-logo.png"
+import React from "react";
+import headerImg from "../assets/img/site-logo.png";
 
 const Header = () => {
   return (
@@ -16,6 +16,6 @@ const Header = () => {
         </div>
       </div>
     </div>
-  )
-}
-export default Header
+  );
+};
+export default Header;
